@@ -261,6 +261,7 @@ void main()
 	 }
      else
      exit(2);
+     cout<<"fork";
   }
 
 }
